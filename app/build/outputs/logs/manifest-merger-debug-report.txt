@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\d5634170f2a5dce9d6b7ee961030ca27\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67af04f91492aa5c5e1491ba47160cb8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\096763a7c6e969e2e839a0660aad11f5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\5942d06f439b57f9365170cb65e617d1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\6648fed22d0d302e5132ba1a639e8ee8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\9662fce93a6617a6939c32bf9efa7943\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\621d4175c5516978522e8834780f5e0a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\2f86358f5369dbe06978a91653c8f7bc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c8f0ec84d9656ae5789a4b51f9b3c752\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\946005d408fda8570f398be30dea605a\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\d5634170f2a5dce9d6b7ee961030ca27\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\d5634170f2a5dce9d6b7ee961030ca27\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67af04f91492aa5c5e1491ba47160cb8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67af04f91492aa5c5e1491ba47160cb8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\096763a7c6e969e2e839a0660aad11f5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\096763a7c6e969e2e839a0660aad11f5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\5942d06f439b57f9365170cb65e617d1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\5942d06f439b57f9365170cb65e617d1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\6648fed22d0d302e5132ba1a639e8ee8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\6648fed22d0d302e5132ba1a639e8ee8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\9662fce93a6617a6939c32bf9efa7943\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\9662fce93a6617a6939c32bf9efa7943\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\621d4175c5516978522e8834780f5e0a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\621d4175c5516978522e8834780f5e0a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\2f86358f5369dbe06978a91653c8f7bc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\2f86358f5369dbe06978a91653c8f7bc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c8f0ec84d9656ae5789a4b51f9b3c752\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c8f0ec84d9656ae5789a4b51f9b3c752\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\946005d408fda8570f398be30dea605a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\946005d408fda8570f398be30dea605a\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.opilane.randomapp.MainActivity
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.opilane.randomapp.EnterPasswordActivity
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:19:19-56
+activity#com.example.opilane.randomapp.SplashActivity
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:20:19-49
+activity#com.example.opilane.randomapp.CreatePasswordActivity
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:22:19-57
+activity#com.example.opilane.randomapp.Main2Activity
+ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:23:9-60
+	android:name
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml:23:19-48
+uses-sdk
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\d5634170f2a5dce9d6b7ee961030ca27\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\d5634170f2a5dce9d6b7ee961030ca27\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67af04f91492aa5c5e1491ba47160cb8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67af04f91492aa5c5e1491ba47160cb8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\096763a7c6e969e2e839a0660aad11f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\096763a7c6e969e2e839a0660aad11f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\5942d06f439b57f9365170cb65e617d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\5942d06f439b57f9365170cb65e617d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\6648fed22d0d302e5132ba1a639e8ee8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\6648fed22d0d302e5132ba1a639e8ee8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\9662fce93a6617a6939c32bf9efa7943\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\9662fce93a6617a6939c32bf9efa7943\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\621d4175c5516978522e8834780f5e0a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\621d4175c5516978522e8834780f5e0a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\2f86358f5369dbe06978a91653c8f7bc\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\2f86358f5369dbe06978a91653c8f7bc\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c8f0ec84d9656ae5789a4b51f9b3c752\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c8f0ec84d9656ae5789a4b51f9b3c752\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\946005d408fda8570f398be30dea605a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\946005d408fda8570f398be30dea605a\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\d5634170f2a5dce9d6b7ee961030ca27\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\oliver\Desktop\TeamProject-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\d5634170f2a5dce9d6b7ee961030ca27\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\096763a7c6e969e2e839a0660aad11f5\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\096763a7c6e969e2e839a0660aad11f5\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\5942d06f439b57f9365170cb65e617d1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\5942d06f439b57f9365170cb65e617d1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\6648fed22d0d302e5132ba1a639e8ee8\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\6648fed22d0d302e5132ba1a639e8ee8\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\9662fce93a6617a6939c32bf9efa7943\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\9662fce93a6617a6939c32bf9efa7943\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\621d4175c5516978522e8834780f5e0a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\621d4175c5516978522e8834780f5e0a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\2f86358f5369dbe06978a91653c8f7bc\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\2f86358f5369dbe06978a91653c8f7bc\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c8f0ec84d9656ae5789a4b51f9b3c752\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c8f0ec84d9656ae5789a4b51f9b3c752\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\946005d408fda8570f398be30dea605a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\946005d408fda8570f398be30dea605a\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\d5634170f2a5dce9d6b7ee961030ca27\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\oliver\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\d5634170f2a5dce9d6b7ee961030ca27\AndroidManifest.xml:26:9-47
